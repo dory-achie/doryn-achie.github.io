@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: DOREEN ODHIAMBO
+email: doryachi43@gmail.com
+author: Doryn
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,13 +40,12 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2021-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  I am twenty Five year old Odhiambo Doreen Achieng'from the strikingly beautiful city of Kisumu,Kenya. I reflect a varied personality including ambition, and the qualities of generosity and thoughtfulness. I am also a well determined and vigorous individual, yet pleasantly calm. I encourage fighting for what you desire and believe in, and doing it through God because nothing great comes easy and with God everything is possible.
+     I am a full-time student, motivated by my love for learning and succeeding as I strive to become an outstanding and successful woman in today’s society. With the definitive goal of becoming a professional developer. I am currently completing Diplpma Program in Information Technology, at KCA University Western Campus .
+     Through my passion for tech, I have embraced a fanatical interest in tech from an infant growing up.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
